@@ -44,7 +44,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = 'garageapp_kb'
+project = 'GarageApp'
 copyright = '2014, GarageApp'
 
 # The version info for the project you're documenting, acts as replacement for
@@ -177,7 +177,7 @@ html_static_path = ['_static']
 #html_file_suffix = None
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'garageapp_kbdoc'
+htmlhelp_basename = 'garageappdoc'
 
 
 # -- Options for LaTeX output ---------------------------------------------
@@ -197,7 +197,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-  ('index', 'garageapp_kb.tex', 'garageapp\\_kb Documentation',
+  ('index', 'GarageApp.tex', 'GarageApp Documentation',
    'GarageApp', 'manual'),
 ]
 
@@ -227,7 +227,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    ('index', 'garageapp_kb', 'garageapp_kb Documentation',
+    ('index', 'garageapp', 'GarageApp Documentation',
      ['GarageApp'], 1)
 ]
 
@@ -241,8 +241,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-  ('index', 'garageapp_kb', 'garageapp_kb Documentation',
-   'GarageApp', 'garageapp_kb', 'One line description of project.',
+  ('index', 'GarageApp', 'GarageApp Documentation',
+   'GarageApp', 'GarageApp', 'the digital assistant of the automotive engineer.',
    'Miscellaneous'),
 ]
 
