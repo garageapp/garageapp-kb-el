@@ -1,22 +1,28 @@
-.. garageapp_kb documentation master file, created by
-   sphinx-quickstart on Sun Sep 14 02:16:47 2014.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+GarageApp - Υποστήριξη
+======================
 
-Welcome to garageapp_kb's documentation!
-========================================
+:λέξεις κλειδιά:
+    ``kb_Home``
 
-Contents:
+Εδώ μπορείτε να βρείτε πληροφορίες
+σχετικά με τη λειτουργία της εφαρμογής.
+
+Για δικιά σας διευκόλυνση μπορείτε να χρησιμοποιήσετε το μενού
+ή/και το πεδίο αναζήτησης που βρίσκεται στα αριστερά της σελίδας.
+
+Περιεχόμενα
+-----------
 
 .. toctree::
-   :maxdepth: 2
+    :numbered:
 
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-
+    general-use.rst
+    customers/index.rst
+    vehicles/index.rst
+    services/index.rst
+    revenues_expenses/index.rst
+    analytics/index.rst
+    settings/index.rst
+    .. subscriptions/index.rst # temporarily hiding this article; justification: PayPal subscriptions are not released yet
+    mozilla_persona.rst
+    contact.rst
