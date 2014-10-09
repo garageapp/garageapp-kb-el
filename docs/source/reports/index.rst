@@ -17,8 +17,23 @@
 θα είστε σε καλύτερη θέση να πάρετε σωστές αποφάσεις
 προς όφελος της επιχείρησής σας.
 
+Προβολή
+-------
+
+Μπορείτε να ανοίξετε την οθόνη με τις αναφορές
+είτε από την κεντρική οθόνη
+
+.. figure:: /_static/images/screen-main-analytics.png
+
+είτε από το κεντρικό μενού
+
+.. figure:: /_static/images/screen-mainmenu-analytics.png
+
+Περιεχόμενα
+-----------
+
 Εργασίες & Κέρδος
------------------
+~~~~~~~~~~~~~~~~~
 
 .. figure:: /_static/images/analytics-services_vs_profit.png
 
@@ -29,7 +44,7 @@
 - κτλ.
 
 Κέρδος (Αναλυτικά)
-------------------
+~~~~~~~~~~~~~~~~~~
 
 .. figure:: /_static/images/analytics-profit_detailed.png
 
@@ -48,7 +63,7 @@
   Οι εργασίες ή οι γενικές δραστηριότητες;
 
 Έσοδα & Έξοδα (Συνολικά)
-------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. figure:: /_static/images/analytics-revenues_expenses_summarized.png
 
@@ -67,7 +82,7 @@
   Δηλαδή αν "τα πάμε καλά" και πόσο.
   
 Έσοδα & Έξοδα (Αναλυτικά)
--------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. figure:: /_static/images/analytics-revenues_expenses_detailed.png
 
@@ -88,7 +103,7 @@
   Δηλαδή αν "τα πάμε καλά", που και πόσο.
   
 Μάρκες, Πελάτες & Εργασίες
---------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. figure:: /_static/images/analytics-brands_vs_customers_vs_services.png
 
@@ -99,7 +114,7 @@
   να εξειδικευτούμε σε αυτή.
   
 Πελάτες & Εργασίες
-------------------
+~~~~~~~~~~~~~~~~~~
 
 .. figure:: /_static/images/analytics-customers_vs_services.png
 
@@ -108,7 +123,7 @@
 όσον αφορά το πλήθος των εργασιών προς αυτούς.
   
 Πελάτες & Κέρδος
-----------------
+~~~~~~~~~~~~~~~~
 
 .. figure:: /_static/images/analytics-customers_vs_profit.png
 
